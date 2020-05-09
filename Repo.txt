@@ -1,0 +1,15 @@
+
+
+git status
+
+ls -->shows all the info on the current directory
+
+git add [name of the file] or git add . //I think it adds everithing to the .git file
+
+git commit -m ["Comment on commit"]
+
+git push 
+
+git pull // This is a fetch and merge 
+// everithing on the server will be fetched and then merged with the content in our folder
+
